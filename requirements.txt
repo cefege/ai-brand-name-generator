@@ -1,0 +1,6 @@
+sng
+Metaphone
+nltk
+PyYAML
+six
+pronounceable
